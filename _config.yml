@@ -359,7 +359,7 @@ plugins:
 
 # Used on index and about sites
 # social:
-   name:                UiChung Hwang
+#   name:                UiChung Hwang
 #   links:
 #     - https://twitter.com/<username>
 #     - https://github.com/OTIKLO
