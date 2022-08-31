@@ -358,11 +358,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
- social:
-   name:                UiChung Hwang
-   links:
+  social:
+    name:                UiChung Hwang
+    links:
 #     - https://twitter.com/<username>
-     - https://github.com/OTIKLO
+      - https://github.com/OTIKLO
 
 
 # Plugin Configs
